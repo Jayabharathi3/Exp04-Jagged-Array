@@ -2,20 +2,20 @@
 ## Aim:
 To write a C# program to create a sample CPU usage on a network with 4 nodes using a jagged array.
 
-## Algorithm:
-### Step1 :
+## Algorithm :
+### Step 1 :
 Import Necessary Libraries.
 
-### Step2 :
+### Step 2 :
 The code starts by declaring a class named Pattern. In C#, all executable code must be contained within a class.
 
-### Step3 :
+### Step 3 :
 Inside the Pattern class, there's a static method named Main.
 
-### Step4 :
+### Step 4 :
 The calculated CPU usage for each node is printed to the console using the Console.WriteLine.
 
-### Step5 :
+### Step 5 :
 End the program.
 
 ## Program:
