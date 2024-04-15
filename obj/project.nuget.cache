@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "D0aUyQZz1pcHNIbFTDZgukDJReqqQwNU84GNFHs0gwCUNGPKzq2NGZYYcDygJckXWBF6qfIg4zp7zzHXbqQg3w==",
+  "dgSpecHash": "1CdM0QANyyyMjbwLqd0tEiz4d8gkoROS0ZMmmk5x+9MP5zhY9BdH156MxQsfqxr1b+r27FYdOUvI+Ke/PYc68A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Archana\\csharpExperiments\\Exp04-Jagged-Array\\Exp04-Jagged-Array.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\SEC\\OneDrive\\Desktop\\C#\\Exp04-Jagged-Array\\Exp04-Jagged-Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SEC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\SEC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\SEC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\SEC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }
